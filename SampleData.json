@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "64cd1d016ed474a5aa6f4cab"
+  },
+  "id": "1",
+  "name": "Kasun",
+  "address": "Panadura"
+},
+{
+  "_id": {
+    "$oid": "64cd1d016ed474a5aa6f4cac"
+  },
+  "id": "2",
+  "name": "Nuwan",
+  "address": "Horana"
+},
+{
+  "_id": {
+    "$oid": "64cd1d016ed474a5aa6f4cad"
+  },
+  "id": "3",
+  "name": "Dasun",
+  "address": "Colombo"
+},
+{
+  "_id": {
+    "$oid": "64cd1d016ed474a5aa6f4cae"
+  },
+  "id": "4",
+  "name": "Supun",
+  "address": "Kalutara"
+}]
